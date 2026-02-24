@@ -10,7 +10,7 @@
 ## Install
 
 All instructions can be found at
-[draculatheme.com/R](https://draculatheme.com/R).
+[draculatheme.com/dRacula](https://draculatheme.com/dRacula).
 
 ``` r
 devtools::install_github("dracula/dRacula")
